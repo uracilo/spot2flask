@@ -1,3 +1,8 @@
 Flask==2.0.3
 pandas
-
+flask-cors
+gunicorn
+nrql-simple
+datetime
+BeautifulSoup4
+requests
